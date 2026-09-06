@@ -88,4 +88,9 @@ A simple Streamlit interface is included where users can upload a maize leaf ima
 Run the application using:
 
 ```bash
-streamlit run app.py
+streamlit run app.pygit add 
+## Live Demo
+
+Try the deployed Streamlit app here:
+
+[Open Live Demo](https://maize-leaf-disease-detection-2yaanhpgbwghdgjy5mehh8.streamlit.app/)
