@@ -79,6 +79,7 @@ A confusion matrix was also generated to analyze the performance of the model ac
 
 ##  Streamlit Application
 
+
 A simple Streamlit interface is included where users can upload a maize leaf image and receive:
 
 - Predicted disease
@@ -88,9 +89,11 @@ A simple Streamlit interface is included where users can upload a maize leaf ima
 Run the application using:
 
 ```bash
-streamlit run app.pygit add 
-## Live Demo
+streamlit run app.py
+```
 
-Try the deployed Streamlit app here:
+##  Live Demo
+
+Try the deployed Streamlit application here:
 
 [Open Live Demo](https://maize-leaf-disease-detection-2yaanhpgbwghdgjy5mehh8.streamlit.app/)
